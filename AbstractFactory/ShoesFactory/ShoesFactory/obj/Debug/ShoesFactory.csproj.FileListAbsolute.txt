@@ -1,0 +1,7 @@
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\obj\Debug\ShoesFactory.csprojAssemblyReference.cache
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\obj\Debug\ShoesFactory.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\bin\Debug\ShoesFactory.exe.config
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\bin\Debug\ShoesFactory.exe
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\bin\Debug\ShoesFactory.pdb
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\obj\Debug\ShoesFactory.exe
+D:\DesignPatterns\AbstactFactory\ShoesFactory\ShoesFactory\obj\Debug\ShoesFactory.pdb
