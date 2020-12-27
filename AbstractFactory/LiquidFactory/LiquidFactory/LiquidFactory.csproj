@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract Factory\ILiquidFactory.cs" />
+    <Compile Include="Concrete Factory\SoftFactory.cs" />
+    <Compile Include="Abstract Products\ILiquid.cs" />
+    <Compile Include="Abstract Products\ICompany.cs" />
+    <Compile Include="Concrete Products\SoftCompany.cs" />
+    <Compile Include="Concrete Products\SoftProducts.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
