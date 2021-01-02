@@ -1,0 +1,7 @@
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\bin\Debug\CurrencyUnit.exe.config
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\bin\Debug\CurrencyUnit.exe
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\bin\Debug\CurrencyUnit.pdb
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\obj\Debug\CurrencyUnit.csprojAssemblyReference.cache
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\obj\Debug\CurrencyUnit.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\obj\Debug\CurrencyUnit.exe
+D:\DesignPatterns\FactoryMethod\CurrencyUnit\CurrencyUnit\obj\Debug\CurrencyUnit.pdb
