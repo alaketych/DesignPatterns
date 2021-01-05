@@ -1,0 +1,7 @@
+D:\DesignPatterns\Strategy\Game\Game\bin\Debug\Game.exe.config
+D:\DesignPatterns\Strategy\Game\Game\bin\Debug\Game.exe
+D:\DesignPatterns\Strategy\Game\Game\bin\Debug\Game.pdb
+D:\DesignPatterns\Strategy\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\DesignPatterns\Strategy\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Strategy\Game\Game\obj\Debug\Game.exe
+D:\DesignPatterns\Strategy\Game\Game\obj\Debug\Game.pdb
