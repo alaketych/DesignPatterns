@@ -1,0 +1,7 @@
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\bin\Debug\Bakery.exe.config
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\bin\Debug\Bakery.exe
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\bin\Debug\Bakery.pdb
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\obj\Debug\Bakery.csprojAssemblyReference.cache
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\obj\Debug\Bakery.exe
+D:\DesignPatterns\TemplateMethod\Bakery\Bakery\obj\Debug\Bakery.pdb
