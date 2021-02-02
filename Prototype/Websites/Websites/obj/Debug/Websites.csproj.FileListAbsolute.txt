@@ -1,0 +1,7 @@
+D:\DesignPatterns\Prototype\Websites\Websites\bin\Debug\Websites.exe.config
+D:\DesignPatterns\Prototype\Websites\Websites\bin\Debug\Websites.exe
+D:\DesignPatterns\Prototype\Websites\Websites\bin\Debug\Websites.pdb
+D:\DesignPatterns\Prototype\Websites\Websites\obj\Debug\Websites.csprojAssemblyReference.cache
+D:\DesignPatterns\Prototype\Websites\Websites\obj\Debug\Websites.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Prototype\Websites\Websites\obj\Debug\Websites.exe
+D:\DesignPatterns\Prototype\Websites\Websites\obj\Debug\Websites.pdb
