@@ -1,0 +1,16 @@
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ConfigurationPC.exe
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ConfigurationPC.deps.json
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ConfigurationPC.runtimeconfig.json
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ConfigurationPC.runtimeconfig.dev.json
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ConfigurationPC.dll
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ref\ConfigurationPC.dll
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\bin\Debug\net5.0\ConfigurationPC.pdb
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.csprojAssemblyReference.cache
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.AssemblyInfoInputs.cache
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.AssemblyInfo.cs
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.dll
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ref\ConfigurationPC.dll
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.pdb
+D:\DesignPatterns\Composite\ConfigurationPC\ConfigurationPC\obj\Debug\net5.0\ConfigurationPC.genruntimeconfig.cache
